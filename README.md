@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a second year CS student at the University of Southampton!
+I am a second year CS student at the University of Southampton with a keen interest in cybersecurity, software engineering and data science!
 
 
 ## 🌐 Socials:
